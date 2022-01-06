@@ -328,6 +328,14 @@ footer{background:url(img/teclado.jpg);}
 .marca-logo img{
   width: 50%;
 }
+.marca-ayto{
+  width: 40%;
+  margin: auto;
+  margin-bottom: var(--espacios);
+}
+.marca-ayto img{
+  width: 50%;
+}
 .iconos{
   display: flex;
   margin: auto;
